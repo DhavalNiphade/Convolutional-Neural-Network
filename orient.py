@@ -1,8 +1,4 @@
 #!/usr/bin/env python
-# =====================================================
-# Assignment 4
-# =====================================================
-# Application of Machine Learning Algorithms
 # Classify Images based on the orientation of Images
 # Orientation Class: 0,90,180,270 Degrees
 #
@@ -12,10 +8,6 @@
 #           Neural Nets (nnet)
 #           Best (best: Convolutional Neural Network???)
 #
-# Team members:
-# Dhaval Niphade
-# Gurleen Dhody
-# Rashmi Bidanta
 #
 # Execute the program as below
 # For Train:
